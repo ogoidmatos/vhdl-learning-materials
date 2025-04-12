@@ -2,5 +2,6 @@
 2020.2
 Nov  8 2024
 22:36:57
-C:/Users/Diogo Matos/AppData/Roaming/Xilinx/Vivado/Documentos/Xilinx_Pojects/uart_example/uart_example.srcs/sim_1/new/tb.vhd,1744151659,vhdl,,,,tb,,,,,,,,
-C:/Users/Diogo Matos/AppData/Roaming/Xilinx/Vivado/Documentos/Xilinx_Pojects/uart_example/uart_example.srcs/sources_1/new/serializer.vhd,1744150545,vhdl2008,,,,serializer,,,,,,,,
+C:/Users/Diogo Matos/Documents/VHDL_Projects/uart_example/uart_example.srcs/sim_1/new/tb.vhd,1744464728,vhdl,,,,tb,,,,,,,,
+C:/Users/Diogo Matos/Documents/VHDL_Projects/uart_example/uart_example.srcs/sources_1/new/deserializer.vhd,1744464891,vhdl2008,,,,deserializer,,,,,,,,
+C:/Users/Diogo Matos/Documents/VHDL_Projects/uart_example/uart_example.srcs/sources_1/new/serializer.vhd,1744150545,vhdl2008,,,,serializer,,,,,,,,
