@@ -48,7 +48,6 @@ architecture Behavioral of tb is
     component deserializer
     port (
         clk, rst: in std_logic;
-        en: in std_logic;
         done: out std_logic;
         input: in std_logic;
         data: out std_logic_vector(7 downto 0)
@@ -83,7 +82,6 @@ begin
     uut_de: deserializer port map(
         clk => clk,
         rst => rst,
-        en => en,
         input => connection,
         data => output,
         done => done
